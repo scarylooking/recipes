@@ -1,4 +1,4 @@
-# Recipies
+# Recipes
 
 Food I've made that wasn't rubbish.
 
